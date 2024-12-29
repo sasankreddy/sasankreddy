@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Computer Science Graduate Student and Software Engineer who loves building web-based applications that solve real-world problems and exploring new technologies.
 
 ### 🌱 What I'm Currently Working On
-- I am currently working on an end-to-end web application based a innovative business idea i had. The application is being developed using Node.js, Express.js, and React, adhering to a microservices architecture and incorporating DevOps best practices..
+- I am currently working on an end-to-end **web application based a innovative business idea i had**. The application is being developed using Node.js, Express.js, and React, adhering to a microservices architecture and incorporating DevOps best practices..
 - **Enhancing my skills** with Advanced Data Structures and Algorithms.
 
 ### 🛠️ My Skills
@@ -18,6 +18,10 @@ Welcome to my GitHub profile! I'm a Computer Science Graduate Student and Softwa
 
 ### 🤝 Let's Connect
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/sasank-reddy-annareddy/)
+
+### 👥 Looking for Collaboration
+I am actively seeking a skilled React Frontend Developer to collaborate with on my current project. If you're passionate about building scalable, user-friendly interfaces and want to contribute to an innovative business idea, feel free to reach out!
+
 
 ### 📫 Contact Me
 - Feel free to reach out at [email](mailto:shashank11.reddy@gmail.com) for any collaboration or just to say hi!
