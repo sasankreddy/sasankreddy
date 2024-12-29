@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a Computer Science Graduate Student and Software Engineer who loves building web-based applications that solve real-world problems and exploring new technologies.
 
 ### 🌱 What I'm Currently Working On
-- **Developing new projects** in microservices architecture and DevOps Practices.
+- I am currently working on an end-to-end web application based a innovative business idea i had. The application is being developed using Node.js, Express.js, and React, adhering to a microservices architecture and incorporating DevOps best practices..
 - **Enhancing my skills** with Advanced Data Structures and Algorithms.
 
 ### 🛠️ My Skills
