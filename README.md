@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a Computer Science Graduate Student and Softwa
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/sasank-reddy-annareddy/)
 
 ### 👥 Looking for Collaboration
-- I am actively seeking a skilled **React Frontend Developer** to collaborate with on my current project. If you're passionate about building scalable, user-friendly interfaces and want to contribute to an innovative business idea, feel free to reach out!
+- I am actively seeking a skilled **Frontend Developer** to collaborate with on my current project. If you're passionate about building scalable, user-friendly interfaces and want to contribute to an innovative business idea, feel free to reach out!
 
 
 ### 📫 Contact Me
